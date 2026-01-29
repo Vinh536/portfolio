@@ -26,10 +26,7 @@ Project Categories: <br>
 Dive into my hands-on work across categories. Each links to a dedicated repo with code, READMEs, and setup guides—all focused on production-ready systems.
 <br>
 <br>
-[Bash Scripts](https://github.com/Vinh536/bash): (Automation & SRE Tools): scripts for system management, file handling, and production pipelines. 
-<br>
-<br>
-[Python Scripts](https://github.com/Vinh536/python): (Data Processing & AI Research): scripts covering ML models, robotics experiments, and data analysis. 
+[Tech Stacks](https://github.com/Vinh536/tech_stacks): (Stack Automation & Research Tools): System management, file handling, production pipelines, ML, SLM, Robotics experiments, data analysis, experiments. 
 <br>
 <br>
 [Full Stack Apps](https://github.com/Vinh536/full_stack_apps): (Full Stack & Mobile Apps): SaaS components, e-commerce platforms, and responsive apps. 
